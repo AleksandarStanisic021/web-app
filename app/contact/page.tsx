@@ -1,4 +1,4 @@
-const Contact = () => {
+const Contact = async () => {
   return (
     <div>
       <h1>Contact Us</h1>
